@@ -1,0 +1,27 @@
+{
+  "name": "contract_agreement",
+  "version": "0.0.1",
+  "description": "A simple, clear contract for design/development work.",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacchansky/contract_agreement.git"
+  },
+  "keywords": [
+    "contract",
+    "agreement"
+  ],
+  "author": "Isaac Chansky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacchansky/contract_agreement/issues"
+  },
+  "homepage": "https://github.com/isaacchansky/contract_agreement",
+  "dependencies": {
+    "glob": "^4.0.2",
+    "markdown-pdf": "^3.0.1"
+  }
+}
